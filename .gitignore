@@ -46,7 +46,7 @@ migrate_working_dir/
 # ==========================
 # ANDROID / GRADLE
 # ==========================
-*.apk
+.apk
 *.keystore
 *.jks
 .gradle/
