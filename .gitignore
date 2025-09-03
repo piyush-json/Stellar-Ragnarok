@@ -1,0 +1,52 @@
+# Android SDK/NDK (absolute paths inside repo)
+Hulk_Hashers/Application/android-sdk/
+Hulk_Hashers/Application/commandlinetools-*
+
+# Flutter/Dart (anywhere in repo)
+**/doc/api/
+**/ios/Flutter/.last_build_id
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/web/
+
+# IDE junk (anywhere)
+**/.idea/
+**/.vscode/
+*.iml
+
+# ==========================
+# MISCELLANEOUS
+# ==========================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ==========================
+# IDEs (IntelliJ, VSCode, Android Studio)
+# ==========================
+*.iml
+*.ipr
+*.iws
+**/.idea/
+**/.vscode/
+
+# ==========================
+# ANDROID / GRADLE
+# ==========================
+.apk
+*.keystore
+*.jks
+.gradle/
