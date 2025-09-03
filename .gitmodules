@@ -1,0 +1,3 @@
+[submodule "soroban-soldiers/PayWallet"]
+	path = soroban-soldiers/PayWallet
+	url = https://github.com/Yash11778/pay-qr-ng.git
