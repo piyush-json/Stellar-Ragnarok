@@ -1,6 +1,6 @@
 [submodule "vault"]
 	path = vault
 	url = https://github.com/000jas/stellar-vault.git
-[submodule "Asgardian-Architects"]
-	path = Asgardian-Architects
+[submodule "Asgardian-Architects/StellaFi"]
+	path = Asgardian-Architects/StellaFi
 	url = https://github.com/vynride/stellafi-frontend.git
